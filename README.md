@@ -7,7 +7,9 @@ Testing the Google Calendar API integration on a Dummy React App for us in the D
 git clone https://github.com/apasingh/testingfeatures.git
 
 ```cd features```
+
 ```npm install```
+
 ```npm run dev```
 
 This gets the website running locally.
