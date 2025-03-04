@@ -11,6 +11,6 @@ Testing the Google Calendar API integration on a Dummy React App for us in the D
 ```npm run dev```
 
 
-## Step 2: Edit src/App.jsx and save to test calendar:
+## Step 2: Save to test calendar:
 Made a test calendar on Google to check if updates work. Used elfsight to do most of the integration, updates automatically.
 
