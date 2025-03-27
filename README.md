@@ -2,14 +2,15 @@
 
 Testing the Google Calendar API integration on a Dummy React App for us in the D4 Constituent App.
 
-## Step 1: Create React App:
-```npm create vite@latest```
 
+## To Test:
+git clone https://github.com/apasingh/testingfeatures.git
 
 ```cd features```
+
 ```npm install```
+
 ```npm run dev```
 
-
-## Step 2: Edit src/App.jsx and save to test HMR:
+This gets the website running locally.
 
