@@ -82,3 +82,9 @@ VITE_GOOGLE_API_KEY=your_api_key_here
 VITE_GOOGLE_CALENDAR_ID=your_calendar_id@group.calendar.google.com
 ```
 
+## Calendar UI
+In features:
+
+```
+npm install @fullcalendar/react @fullcalendar/daygrid @fullcalendar/google-calendar
+```
