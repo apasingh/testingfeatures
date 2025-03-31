@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import Calendar from '../src/components/calendar.jsx';
+import GoogleCalendarFull from './components/calendar'
 import './App.css'
 
 
@@ -25,7 +25,7 @@ function App() {
     </div>
     <p> ok, now testing my calendar: </p>
 
-    <Calendar />
+    <GoogleCalendarFull/>
 
     </>
   )
